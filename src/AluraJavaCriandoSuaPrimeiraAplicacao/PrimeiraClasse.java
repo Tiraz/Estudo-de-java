@@ -1,4 +1,4 @@
-package PrimeiroCursoOneJavaFase02;
+package AluraJavaCriandoSuaPrimeiraAplicacao;
 
 public class PrimeiraClasse {
     public static void main(String[] args){
